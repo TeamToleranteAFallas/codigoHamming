@@ -3,7 +3,7 @@ Detección y corrección de errores
 Código Hamming
 Computación tolerante a fallas
 Equipo 01
-Sección: D02S
+Sección: D02
 --
 --
 --
