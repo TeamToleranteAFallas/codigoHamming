@@ -1,6 +1,6 @@
 Objetivo
-A travésdeanálisismatemáticoyalgorítmicosecomprobaralaeficienciadecorrecciónencomparativaconlosdatos
-que serequiereparaunprocesamientoaceptable.
+A través de análisis matemático y algorítmico se comprobara la eficiencia de corrección en comparativa con los datos
+que sere quiere para un procesamiento aceptable.
 
 Instrucciones
 Se programará el código Hamming para corregir más de 1 bit de error en el envío de datos.
