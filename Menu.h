@@ -4,6 +4,7 @@
 #include "Hamming.h"
 #include <iostream>
 #include <string>
+
 class Menu{
 public:
     Menu();
